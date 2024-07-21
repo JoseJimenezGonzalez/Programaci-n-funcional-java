@@ -1,4 +1,4 @@
-# Programación Funcional en Java
+# Programación funcional en java
 Este repositorio contiene una serie de ejercicios y ejemplos prácticos sobre programación funcional en Java. El objetivo es proporcionar una guía comprensible y accesible para aprender los conceptos fundamentales de la programación funcional, así como su aplicación en Java utilizando características modernas del lenguaje.
 
 ## Contenido
